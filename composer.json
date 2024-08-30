@@ -1,0 +1,18 @@
+{
+    "name": "getkey/licencephp",
+    "description": "getkey is a license management application that can be used by everyone",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Getkey\\Licencephp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andre12001",
+            "email": "andredavega123@gmail.com"
+        }
+    ],
+    "require": {}
+}
